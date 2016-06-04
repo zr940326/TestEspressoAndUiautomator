@@ -1,2 +1,0 @@
-# TestEspressoAndUiautomator
-一个比较简单的demo，实现了Espresso的自动化操作测试和Ui automator的自动化测试操作。
