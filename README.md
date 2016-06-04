@@ -1,10 +1,12 @@
 # TestEspressoAndUiautomator
-一个比较简单的demo，实现了Espresso的自动化操作测试和Ui automator的自动化测试操作。
+一个比较简单的demo，实现了比较基础的Espresso的自动化操作测试和Ui automator的自动化测试操作。
 是实战自动化测试Espresso和Ui automator（一）和实战自动化测试Espresso和Ui automator（二）笔记记录代码。
 
 介绍了Espresso的使用：
    1.找元素。 
-   2.操作元素 
+   
+   2.操作元素
+   
    3.检查结果
    
 介绍了UI automator的使用：
