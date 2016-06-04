@@ -3,6 +3,7 @@
 是实战自动化测试Espresso和Ui automator（一）和实战自动化测试Espresso和Ui automator（二）笔记记录代码。
 
 介绍了Espresso的使用：
+
    1.找元素。 
    
    2.操作元素
